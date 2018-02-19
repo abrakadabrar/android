@@ -1,5 +1,5 @@
 # android
-Этот документ описывает условия получения и использования информации мобильным приложением PhotoFax (ФотоФакс).
+Этот документ описывает условия получения и использования информации мобильным приложением Minderry
 
 Мы очень серьезно подходим к политике конфиденциальности.
 
@@ -30,7 +30,7 @@ Minderry:
 
 Do not collect any user information.
 Do not contain in-app purchases.
-Requires permission to use the camera android.permission.CAMERA. The camera is used by the application only to implement the main function of PhotoFax (PhotoFax) - to obtain photographs for their further optimization for fax delivery.
+Requires permission to use the camera android.permission.CAMERA. The camera is used by the application only to implement the main function of Minderry - QR code scan to send the received data to the server.
 
 Anonymous information that we get about users from other services such as Google Analytics, Google Play and others includes: information about the installation (for example, operating system type and application version number), information about the device (hardware model and the version of the operating system) and users behavior information.
 
